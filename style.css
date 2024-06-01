@@ -1,0 +1,16 @@
+body {
+    font-family: sans-serif;
+    background-color:#9d72ab ;
+}
+
+.link-header{
+    text-decoration: none;
+    color:#eac9f5 ;
+    border: 3px solid #E869AA;
+    border-radius: 10px;
+}
+
+img{
+    border: 3px solid #E869AA;
+    border-radius: 15px;
+}
